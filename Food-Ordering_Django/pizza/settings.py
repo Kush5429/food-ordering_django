@@ -98,7 +98,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'food-ordering_django.wsgi.application'
+WSGI_APPLICATION = 'pizza.wsgi.application'
 
 
 # Database
